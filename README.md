@@ -4,7 +4,7 @@
 
 ![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-orange?style=for-the-badge&logo=streamlit)
 ![Gemini](https://img.shields.io/badge/Powered%20By-Google%20Gemini-blue?style=for-the-badge&logo=google)
-![LegalDocs](https://img.shields.io/badge/Legal%20Parsing-PyMuPDF%20%26%20python-docx-green?style=for-the-badge)
+![LegalDocs](https://img.shields.io/badge/Legal%20Parsing-PyMuPDF%20%26%20python--docx-green?style=for-the-badge)
 
 > **Submitted for**: Google Solution Challenge 2025  
 > **UN SDG Focus**: [Decent Work and Economic Growth (SDG 8)](https://sdgs.un.org/goals/goal8), [Reduced Inequalities (SDG 10)](https://sdgs.un.org/goals/goal10)
