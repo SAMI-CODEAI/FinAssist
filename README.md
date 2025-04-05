@@ -1,8 +1,4 @@
-Here’s a polished and professional `README.md` tailored for submitting **FinAssist** to the **Google Solution Challenge 2025**:
 
----
-
-```markdown
 # 💰 FinAssist — Your AI-Powered Financial Assistant
 
 ![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-orange?style=for-the-badge&logo=streamlit)
