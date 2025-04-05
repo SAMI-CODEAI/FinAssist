@@ -132,9 +132,3 @@ For queries, contributions, or collaborations:
 ---
 
 > Made with ❤️ for the Google Solution Challenge 2025
-
-```
-
----
-
-Let me know if you’d like to include visuals, add demo links, or personalize contact details—I can help prep everything for your submission!
