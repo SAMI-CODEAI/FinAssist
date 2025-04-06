@@ -109,11 +109,6 @@ ALPHA_VANTAGE_API_KEY = "your-alpha-vantage-key"
 
 Pull requests are welcome. For major changes, open an issue first to discuss your ideas.
 
----
-
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
 
 ---
 
