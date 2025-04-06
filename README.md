@@ -53,12 +53,6 @@ Many individuals—especially in underserved communities—struggle with:
 
 ---
 
-## 📷 UI Preview
-
-> _Add screenshots or GIFs of your app interface here._
-
----
-
 ## 🛠️ Installation & Usage
 
 1. **Clone the repository**
@@ -126,8 +120,8 @@ This project is open-source under the [MIT License](LICENSE).
 ## 📬 Contact
 
 For queries, contributions, or collaborations:  
-📧 **your-email@example.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) • [GitHub](https://github.com/your-username)
+📧 **devanshvpurohit@gmail.con**  
+
 
 ---
 
